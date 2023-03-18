@@ -1,0 +1,50 @@
+/* Write your CSS here */
+body {
+  margin: 0px;
+}
+.bg-cont {
+  background-color: #f1f5f9;
+  height: vh;
+}
+
+.container {
+  height: vh;
+  width: vw;
+  text-align: center;
+}
+
+.heading {
+  margin-top: 8px;
+  color: #252627;
+  font-family: roboto;
+  font-weight: bold;
+  text-align: center;
+}
+
+.search-input {
+  height: 7vh;
+  width: 25vw;
+  text-align: center;
+  margin-left: 540px;
+}
+
+.search {
+  background-color: #f1f5f9;
+  color: #0f172a;
+  font-family: roboto;
+  width: 80%;
+  font-size: 20px;
+}
+
+.search-img {
+  height: 5vh;
+  width: 5vw;
+}
+
+.ul {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  padding-left: 0px;
+  margin-top: 30px;
+}

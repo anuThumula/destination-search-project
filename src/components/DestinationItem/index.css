@@ -1,0 +1,17 @@
+/* Write your CSS here */
+
+.list-item {
+  margin: 15px;
+}
+
+.img {
+  height: 150px;
+  width: 200px;
+}
+
+.para {
+  font-family: Open Sans;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+}
